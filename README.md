@@ -44,3 +44,6 @@ Orbit is an open-source data visualisation tool that allows businesses, sports t
   <div>
     <img width="960px" height="460" src="./src/assets/screenshots/snapshot-view.png"></img>
   </div>
+
+## To Start:
+`$npm start` or `$yarn start`.
